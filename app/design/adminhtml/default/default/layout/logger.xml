@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <logger_adminhtml_logger_index>
+        <reference name="content">
+            <block type="logger/adminhtml_logger" name="logger" />
+        </reference>
+    </logger_adminhtml_logger_index>
+</layout>
