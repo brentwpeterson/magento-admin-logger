@@ -1,0 +1,4 @@
+app/code/community/Strategery/ app/code/community/Strategery/
+app/design/adminhtml/default/default/layout/logger.xml	app/design/adminhtml/default/default/layout/logger.xml
+app/etc/modules/Strategery_Logger.xml	app/etc/modules/Strategery_Logger.xml
+lib/Psr/Log/	lib/Psr/Log/

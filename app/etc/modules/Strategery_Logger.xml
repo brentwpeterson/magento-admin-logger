@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+	<Strategery_Logger>
+		<active>true</active>
+	         <codePool>community</codePool>
+	</Strategery_Logger>
+    </modules>
+</config>
